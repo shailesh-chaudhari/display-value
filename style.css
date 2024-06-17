@@ -1,0 +1,15 @@
+.image-item{
+    width: 430px;
+    height: 280px;
+    padding: 5px;
+}
+
+.image-wrapper{
+    display: inline;
+}
+
+.menu-item{
+display: block; 
+/* display: none; */
+/* visibility:hidden; */
+}
